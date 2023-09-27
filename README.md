@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
  # Table of Content
 | Projects      | Solutions  |
 | :--------------:| :----------:|
-| Shell00 | [100%](./Shell00) |
-| Shell01 |  [100%](./Shell01)  |
+| Shell00 | [70%](./Shell00) |
+| Shell01 |  [70%](./Shell01)  |
 | C00 | [77%](./C00) | 
 | C01 | [85%](./C01) | 
 | C02 | [65%](./C02) | 
